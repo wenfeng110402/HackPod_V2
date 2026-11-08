@@ -1,44 +1,50 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
-1,1,,$0.00,$0.00,
-2,20,SAMSUNG(三星),$0.02,$0.40,
-3,50,YAGEO(国巨),$0.01,$0.50,
-4,50,SAMSUNG(三星),$0.00,$0.00,
-5,2,SAMSUNG(三星),$0.13,$0.26,
-6,100,YAGEO(国巨),$0.00,$0.00,
-7,100,SAMSUNG(三星),$0.00,$0.00,
-8,100,FH(风华),$0.00,$0.00,
-9,1,MOLEX,$1.05,$1.05,
-10,5,韩国韩荣,$0.08,$0.40,
-11,50,Hottech(合科泰),$0.01,$0.50,
-12,20,FUXINSEMI(富芯森美),$0.03,$0.60,
-13,10,AnBon(安邦),$0.03,$0.30,
-14,10,G-Switch(品赞),$0.05,$0.50,
-15,10,TDK,$0.01,$0.10,
-16,20,Sunlord(顺络),$0.01,$0.20,
-17,50,muRata(村田),$0.02,$1.00,
-18,20,cjiang(长江微电),$0.03,$0.60,
-19,1,MEMS(敏芯微),$0.00,$0.00,
-20,5,AOS,$0.07,$0.35,
-21,100,YAGEO(国巨),$0.00,$0.00,
-22,100,YAGEO(国巨),$0.00,$0.00,
-23,100,UNI-ROYAL(厚声),$0.00,$0.00,
-24,100,UNI-ROYAL(厚声),$0.00,$0.00,
-25,100,UNI-ROYAL(厚声),$0.00,$0.00,
-26,100,UNI-ROYAL(厚声),$0.00,$0.00,
-27,100,UNI-ROYAL(厚声),$0.00,$0.00,
-28,100,UNI-ROYAL(厚声),$0.00,$0.00,
-29,100,UNI-ROYAL(厚声),$0.00,$0.00,
-30,1,,$0.00,$0.00,
-31,1,,$0.00,$0.00,
-32,1,ESPRESSIF(乐鑫),$2.66,$2.66,
-33,1,TI(德州仪器),$2.05,$2.05,
-34,1,QST(上海矽睿),$1.68,$1.68,
-35,1,Winbond(华邦),$2.88,$2.88,
-36,5,TI(德州仪器),$0.06,$0.30,
-37,1,,$0.00,$0.00,
-38,10,TECH PUBLIC(台舟),$0.07,$0.70,
-39,5,TOPPOWER(南京拓微),$0.09,$0.45,
-40,5,XUNPU(讯普),$0.09,$0.45,
-41,5,YXC(扬兴晶振),$0.12,$0.60,
-Screen,1,Taobao,$9.70,$9.70,https://item.taobao.com/item.htm?id=922865265280
+ESP32-S3R8 SoC (Dual-core Wi-Fi/BLE),1,LCSC,$2.66,$2.66,https://item.szlcsc.com/3198292.html
+QMI8658A (6-Axis IMU Gyro/Accel),1,LCSC,$1.68,$1.68,https://item.szlcsc.com/3544058.html
+PCM5100APWR (32-bit Stereo Audio DAC),1,LCSC,$2.05,$2.05,https://item.szlcsc.com/142447.html
+W25Q128JVPIQ (16MB SPI NOR Flash),1,LCSC,$2.88,$2.88,https://item.szlcsc.com/213201.html
+TLV62568DBVR (1A Step-Down Buck),5,LCSC,$0.06,$0.32,https://item.szlcsc.com/174600.html
+RT9013-33GB (3.3V 500mA LDO),10,LCSC,$0.07,$0.69,https://item.szlcsc.com/20526335.html
+TP4055 (500mA Li-ion Battery Charger),5,LCSC,$0.09,$0.47,https://item.szlcsc.com/29192.html
+40MHz Crystal (X252040MMB4SI),5,LCSC,$0.12,$0.59,https://item.szlcsc.com/3096299.html
+Type-C Receptacle (TYPEC-304-BCP16),5,LCSC,$0.09,$0.47,https://item.szlcsc.com/763636.html
+MOSFET AO3401A P-Channel,5,LCSC,$0.07,$0.35,https://item.szlcsc.com/15801.html
+2.1-inch Round Touch Display (显示屏),1,Taobao,$7.61,$7.61,https://item.taobao.com/item.htm?id=922865265280
+Lithium Battery (电池 603035/603030),1,Taobao,$1.11,$1.11,
+MicroSD Slot (TF卡槽 淘宝同型号),1,Taobao,$0.32,$0.32,https://item.taobao.com/item.htm?id=859458011933
+Power Latch IC (3秒开关机芯片),1,Taobao,$0.11,$0.11,https://item.taobao.com/item.htm?id=679277602134
+PCM5102 Audio DAC (优信/拆机货),1,YouXin,$0.73,$0.73,
+PDM Microphone (PDM麦克风),1,Taobao,$0.26,$0.26,https://item.taobao.com/item.htm?id=743383364544
+BTB Receptacle 24P (BTB插座母座),1,Taobao,$0.06,$0.06,https://item.taobao.com/item.htm?id=687263065214
+3.5mm Headphone Jack (耳机插座 贴片),1,Taobao,$0.02,$0.02,https://item.taobao.com/item.htm?id=720054654615
+CS43131 Hi-Fi DAC (备用/最便宜),1,Taobao,$2.60,$2.60,https://item.taobao.com/item.htm?id=806650695695
+Button Cap (按键帽),2,Taobao,$0.07,$0.14,https://item.taobao.com/item.htm?id=743639180452
+Screw M1.4x5 (螺丝),4,Tmall,$0.01,$0.06,https://detail.tmall.com/item.htm?id=846258555804
+Thermal Silicone Pad (导热硅垫 1-1.5mm),1,Taobao,$0.07,$0.07,
+Tactile Switch (GT-TC018B-H035-L1),10,LCSC,$0.05,$0.49,https://item.szlcsc.com/826755.html
+TVS Diode (SMF5.0CA),10,LCSC,$0.03,$0.34,https://item.szlcsc.com/432791.html
+Schottky Diode DSK34,20,LCSC,$0.03,$0.51,https://item.szlcsc.com/974472.html
+Schottky Diode 1N5819WS,50,LCSC,$0.01,$0.50,https://item.szlcsc.com/213850.html
+3.5mm Audio Jack (PJ-381A-5A LCSC),5,LCSC,$0.08,$0.39,https://item.szlcsc.com/744357.html
+MicroSD Slot (Molex 5033981892 LCSC),1,LCSC,$1.05,$1.05,https://item.szlcsc.com/423383.html
+Inductor 2.2uH (FTC252012S2R2MBCA),20,LCSC,$0.03,$0.60,https://item.szlcsc.com/6763492.html
+Inductor 2nH (LQG15HS2N0S02D muRata),50,LCSC,$0.02,$0.96,https://item.szlcsc.com/18909.html
+Inductor 24nH (SDCL1005C24NJTDF Sunlord),20,LCSC,$0.01,$0.10,https://item.szlcsc.com/75420.html
+Inductor 2nH (MLG1005S2N0BT000 TDK),10,LCSC,$0.01,$0.13,https://item.szlcsc.com/77896.html
+Capacitor 0402 100nF,50,LCSC,$0.01,$0.45,https://item.szlcsc.com/142688.html
+Capacitor 0402 1uF,50,LCSC,$0.003,$0.17,https://item.szlcsc.com/15107.html
+Capacitor 0603 10uF,20,LCSC,$0.02,$0.34,https://item.szlcsc.com/20411.html
+Capacitor 0402 2.2uF,100,LCSC,$0.005,$0.45,https://item.szlcsc.com/13164.html
+Capacitor 0402 2.2nF,100,LCSC,$0.003,$0.29,https://item.szlcsc.com/528494.html
+Capacitor 0402 2.2pF,100,LCSC,$0.003,$0.31,https://item.szlcsc.com/1911.html
+Capacitor 0603 10pF (Digikey D2976060),2,Digikey,$0.13,$0.25,https://www.digikey.com/
+Resistor 0402 10k 1%,100,LCSC,$0.0013,$0.13,https://item.szlcsc.com/61542.html
+Resistor 0402 100k 1%,100,LCSC,$0.0010,$0.10,https://item.szlcsc.com/26484.html
+Resistor 0402 100k (Yageo),100,LCSC,$0.0018,$0.18,https://item.szlcsc.com/61543.html
+Resistor 0805 1R 1%,100,LCSC,$0.0045,$0.45,https://item.szlcsc.com/26014.html
+Resistor 0402 22.1k 1%,100,LCSC,$0.0013,$0.13,https://item.szlcsc.com/44464.html
+Resistor 0402 5.1k 1%,100,LCSC,$0.0019,$0.19,https://item.szlcsc.com/26648.html
+Resistor 0402 22R 1%,100,LCSC,$0.0016,$0.16,https://item.szlcsc.com/25835.html
+Resistor 0603 0R 1%,100,LCSC,$0.0018,$0.18,https://item.szlcsc.com/21903.html
+Resistor 0603 470R 1%,100,LCSC,$0.0019,$0.19,https://item.szlcsc.com/23906.html
 Estimated total shipping,1,,,$0.00,

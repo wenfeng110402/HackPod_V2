@@ -40,4 +40,5 @@ Item,Qty,Supplier,Cost/item,Total Cost,link
 39,5,TOPPOWER(南京拓微),$0.09,$0.45,
 40,5,XUNPU(讯普),$0.09,$0.45,
 41,5,YXC(扬兴晶振),$0.12,$0.60,
+Screen,1,Taobao,$9.70,$9.70,https://item.taobao.com/item.htm?id=922865265280
 Estimated total shipping,1,,,$0.00,
